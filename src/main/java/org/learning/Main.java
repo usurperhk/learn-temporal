@@ -40,5 +40,7 @@ public class Main {
                 .build();
 
         Workflow.continueAsNew(request);
+
+        // Testing hello world activities
     }
 }
